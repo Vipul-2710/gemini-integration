@@ -1,4 +1,4 @@
-stramlit
-pandas
+streamlit
 streamlit-option-menu
-google.generativeai
+google-generativeai
+pandas
